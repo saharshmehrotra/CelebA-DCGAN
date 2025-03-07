@@ -6,7 +6,6 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 
 ## **Dataset**
 The model is trained on the **CelebA (CelebFaces Attributes) dataset**, which consists of over **200,000** celebrity face images.  
-- The dataset is **automatically downloaded** if not already available.  
 - Images are **center cropped** and resized to **64×64** pixels.
 
 ---
